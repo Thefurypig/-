@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 845740706@qq.com
 description: "关于代码和其他的一点思考"
 keyword: "furypig"
-url: "https://thefurypig.github.io/"              # your host, for absolute URL
+url: "https://thefurypig.github.io/blogs/"              # your host, for absolute URL
 baseurl: "/blogs"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: auto
 
 
 
