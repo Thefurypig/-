@@ -5,9 +5,82 @@
     <description>关于代码和其他的一点思考</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Mar 2020 14:01:12 +0800</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2020 14:01:12 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2020 22:18:18 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2020 22:18:18 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>《哲学家们都干了什么》</title>
+        <description>&lt;p&gt;之前一直想过要研究一下哲学是怎么回事，但是一直是没有一个很好的切入点。终于，在一期读书会上，被推荐了《哲学家们都干了什么》这本书，遂将其读了一遍。顺便还为我们的读书会写了一个推荐理由:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;为什么我们的企业文化里面中如此强调追问事物的本质？
+为什么老是有人问人生的意义是什么？
+为什么我们要放着那么多现成的结论不用，非要杀死自己的脑细胞来想这些终极问题？
+首先因为我们是人，不是动物。人和动物的区别在于人要思考。
+其次这些问题很重要，而哲学就是我们应对这些问题的武器。
+它和神学一样，包含着人类对于那些迄今仍为科学知识所不能肯定之事物的思考；
+但它又像科学一样，是诉之于人类的理性而不是诉之于权威的，不论是传统的权威还是启示的权威。
+所以想要拿起这些武器，就先来看看哲学家们都干了些什么吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;分享一下，其中觉得有意思的地方吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.演绎推理和归纳推理：&lt;/strong&gt;
+  举个例子，明天太阳会升起来吗？归纳推理就是：因为昨天太阳升起来了，今天太阳也升起来了，所以推理可得明天太阳也会升起来的。演绎推理就是：大前提：明天太阳不会爆炸，小前提：明天地球不会毁灭，所以得出结论，明天太阳不会爆炸。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.这个世界是动态的：&lt;/strong&gt;
+    一开始哲学家们都以为世界上存在一个真理，就那么静静地躺在那里，等待被人所发现，然后公之于众。后面，哲学家们慢慢地发现了，不是这样的。这个世界是处于一个不断变化中的，真理也是会被迭代的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.哲学是有门槛的：&lt;/strong&gt;
+    我看到苏格拉底被绞死的时候，就想到，其实对于每个事物，都是有人喜欢，有人不喜欢的。对于哲学也是，不是每个人都喜欢思辨，喜欢弄清楚事物的本质。大部分人还是对于人生的意义，我从哪里来，这些问题是不太感冒的。所以强迫不喜欢哲学的人讨论那些深奥的问题，本身就是有问题的。所以如果不想那么讨人厌，最好是和志同道合的人一起做事。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2020 05:54:00 +0800</pubDate>
+        <link>http://0.0.0.0:4000/2020/03/17/about-philosophy/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/03/17/about-philosophy/</guid>
+        
+        <category>读书笔记</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>开始使用自己的博客</title>
+        <description>&lt;p&gt;其实刚开始是有想过使用自己的博客网站的，但是一时间觉得麻烦，就没弄。后面使用的是segmentfault这个网站在写博客，但是随着这个网站样式改版，我觉得越发地丑陋，刚好看了公司几个同事的博客网站，觉得不错，就开始自己写博客了。折腾了一会，终于把这个地方弄的是差不多自己满意的样子了。此处应该有掌声@_@.
+不过作为一个野路子程序员(种草专业毕业)，倒是觉得挺替自己高兴的，毕竟有了自己的博客网站，才显得不那么业余，稍微专业了一点点。
+这里贴一下之前在思否写过的一些文章，由于懒得很，就没重新复制粘贴了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;有关webpack的&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000020104777&quot;&gt;webpack hash chunkhash contenthash浅析&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000020104835&quot;&gt;webpack 之如何手写一个plugin?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000021007847&quot;&gt;webpack优化之翻倍提高你的构建效率&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000021008089&quot;&gt;webpack之利用缓存提高二次构建速度&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000021008002&quot;&gt;webpack预编译之DllPlugin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;有关前端性能优化的&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000021027036&quot;&gt;性能优化第一步：性能瓶颈分析&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000021027154&quot;&gt;性能优化手段之首跳页面如何从10多秒到3.5秒&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;读书笔记&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000012343489&quot;&gt;《高性能JavaScript》（读书笔记）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000017025825&quot;&gt;《JavaScript高级程序设计》读书笔记&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2020 05:23:00 +0800</pubDate>
+        <link>http://0.0.0.0:4000/2020/03/17/about-blog/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/03/17/about-blog/</guid>
+        
+        <category>随记</category>
+        
+        
+      </item>
     
       <item>
         <title>Hello 2020</title>
@@ -20,7 +93,7 @@
         <link>http://0.0.0.0:4000/2020/03/16/first-blog/</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2020/03/16/first-blog/</guid>
         
-        <category>生活</category>
+        <category>随记</category>
         
         
       </item>

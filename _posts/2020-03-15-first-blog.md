@@ -7,7 +7,7 @@ author:     "furypig"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - 随记
 ---
 
 > “Yeah It's now on. ”
