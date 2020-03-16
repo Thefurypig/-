@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>furypig</title>
+    <description>关于代码和其他的一点思考</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 16 Mar 2020 00:56:57 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:56:57 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Hello 2020</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Mon, 16 Mar 2020 20:55:00 +0800</pubDate>
+        <link>http://0.0.0.0:4000/2020/03/16/first-blog/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/03/16/first-blog/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
