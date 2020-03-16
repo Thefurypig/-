@@ -10,6 +10,6 @@ tags:
     - 生活
 ---
 
-> “Yeah It's on. ”
+> “Yeah It's now on. ”
 
 
